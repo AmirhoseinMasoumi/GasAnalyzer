@@ -51,3 +51,12 @@ The Gas Analyzer System is licensed under the [MIT License](https://github.com/A
 
 ## Disclaimer
 This Gas Analyzer System is intended for informational purposes only. The developers and maintainers of this repository are not responsible for any direct or indirect damages caused by the use or misuse of the system.
+
+---
+
+![Tilted](https://github.com/AmirhoseinMasoumi/GasAnalyzer/blob/main/Assets/software.png)
+
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/GasAnalyzer/blob/main/Assets/board.png)
+
+---
