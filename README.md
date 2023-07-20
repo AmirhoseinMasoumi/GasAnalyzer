@@ -47,7 +47,7 @@ Make your changes, test them thoroughly, and ensure the code adheres to the proj
 Commit your changes and create a detailed pull request with a clear explanation of the changes and their purpose.
 
 ## Licensing
-The Gas Analyzer System is licensed under the MIT License.
+The Gas Analyzer System is licensed under the [MIT License](https://github.com/AmirhoseinMasoumi/GasAnalyzer/blob/main/README.md#:~:text=licensed%20under%20the-,MIT%20License,-.).
 
 ## Disclaimer
 This Gas Analyzer System is intended for informational purposes only. The developers and maintainers of this repository are not responsible for any direct or indirect damages caused by the use or misuse of the system.
