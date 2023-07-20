@@ -1,9 +1,9 @@
 # Overview
-This repository contains the firmware and software for a comprehensive Gas Analyzer System designed to monitor gases produced by factories. The system utilizes an STM32F407 microcontroller and incorporates electrochemical sensors for measuring O2, CO2, and CO gas concentrations. Additionally, it includes a temperature sensor to provide context to the gas measurements. The data is transmitted via Modbus UDP and USART protocols and visualized in a real-time chart using a Qt software interface. Users can set the data averaging period and the system saves the data to an SQLite database for future reference and analysis.
+This repository contains the firmware and software for a comprehensive Gas Analyzer System designed to monitor gases produced by factories. The system utilizes an STM32F407 microcontroller and incorporates electrochemical sensors for measuring O2, CO2, and CO gas concentrations. Additionally, it includes a temperature sensor to provide context to the gas measurements. The data is transmitted via Modbus UDP and RS232 protocols and visualized in a real-time chart using a Qt software interface. Users can set the data averaging period and the system saves the data to an SQLite database for future reference and analysis.
 
 ### Features
 Real-time monitoring of O2, CO2, CO, and temperature using electrochemical sensors.
-Data transmission via Modbus UDP and USART protocols for efficient communication.
+Data transmission via Modbus UDP and RS232 protocols for efficient communication.
 Qt software interface for real-time visualization of gas concentrations on a chart.
 Configurable data averaging period to provide more meaningful insights.
 Data logging and storage in an SQLite database for historical data analysis.
@@ -12,7 +12,7 @@ Data logging and storage in an SQLite database for historical data analysis.
 STM32F407 Microcontroller: The heart of the gas analyzer system, responsible for data processing and communication.
 Electrochemical Sensors: Sensors for measuring O2, CO2, and CO concentrations.
 Temperature Sensor: Measures ambient temperature for additional context.
-Modbus UDP and USART: Communication protocols used to send sensor data.
+Modbus UDP and RS232: Communication protocols used to send sensor data.
 Qt Software Interface: Provides real-time chart visualization and user interaction.
 SQLite Database: Stores gas concentration data for later retrieval and analysis.
 
